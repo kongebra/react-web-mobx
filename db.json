@@ -1,0 +1,35 @@
+{
+    "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+    "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+    "profile": { "name": "typicode" },
+    "todos": [
+        {
+            "id": "32gdgds7832",
+            "title": "cook"
+        },
+        {
+            "id": "dfakj9337",
+            "title": "clean"
+        },
+        {
+            "id": "gdsklmt32",
+            "title": "sleep"
+        },
+        {
+            "id": "t322njk",
+            "title": "code"
+        },
+        {
+            "id": "534vksk",
+            "title": "shower"
+        },
+        {
+            "id": "32iuif2",
+            "title": "drink"
+        },
+        {
+            "id": "fd87vsdjknejk",
+            "title": "love"
+        }
+    ]
+}
